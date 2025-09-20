@@ -1,0 +1,13 @@
+Pathway,Attention_Weight,Drug_Type
+PI3K-Akt,0.89,Cancer
+MAPK,0.82,Cancer
+p53,0.78,Cancer
+Cell Cycle,0.76,Cancer
+Apoptosis,0.72,Cancer
+DNA Repair,0.68,Cancer
+Cholesterol Biosynthesis,0.94,Cardiovascular
+PPAR Signaling,0.88,Cardiovascular
+Fatty Acid Metabolism,0.82,Cardiovascular
+Calcium Signaling,0.79,Cardiovascular
+Renin-Angiotensin,0.74,Cardiovascular
+Cardiac Muscle,0.71,Cardiovascular

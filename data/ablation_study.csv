@@ -1,0 +1,7 @@
+Configuration,AUC_ROC,AUPR,AUC_ROC_Improvement,AUPR_Improvement,Component_Contribution_AUC,Component_Contribution_AUPR
+Base Model,0.823,0.756,0.0,0.0,0.0,0.0
++ Knowledge Integration,0.871,0.798,0.048,0.042,43.6,38.5
++ Attention Mechanism,0.898,0.825,0.027,0.027,24.5,24.8
++ Pathway Scoring,0.917,0.847,0.019,0.022,17.3,20.2
++ GO Embedding,0.933,0.865,0.016,0.018,14.5,16.5
+Full Model,0.934,0.869,0.111,0.113,100.0,100.0

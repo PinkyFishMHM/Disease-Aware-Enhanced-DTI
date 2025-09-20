@@ -1,0 +1,6 @@
+Model,VRAM_Usage_GB,Inference_Time_sec,Training_Time_hours
+DeepDTA,6.2,0.08,24
+MolTrans,7.1,0.12,32
+AttentionDTI,7.8,0.15,28
+DLM-DTI,7.9,0.03,18
+Ours,8.0,0.02,20

@@ -1,0 +1,6 @@
+Disease,AUC_ROC,AUPR,Sample_Size
+Cancer,0.945,0.892,12500
+Cardiovascular,0.923,0.876,8900
+Neurological,0.912,0.854,6700
+Metabolic,0.907,0.849,5400
+Immunological,0.901,0.841,4200
